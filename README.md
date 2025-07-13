@@ -16,6 +16,7 @@ Materials Used:
 ⸻
 
 What We Did:
+
 	1.	Designed a 3D model of a robotic arm with 5 movable joints (base, shoulder, elbow, wrist, and gripper).
 	2.	Connected 5 servo motors to the Arduino using PWM pins (3, 5, 6, 9, 10).
 	3.	Wrote Arduino code to:
